@@ -1,0 +1,11 @@
+{
+  "name": "get",
+  "version": "1.0.0",
+  "description": "Get handler",
+  "main": "index.js",
+  "author": "Jon Berke",
+  "license": "MIT",
+  "dependencies": {},
+  "scripts": {},
+  "devDependencies": {}
+}

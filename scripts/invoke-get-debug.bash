@@ -1,0 +1,1 @@
+sam local invoke -d 5858 GetHandler

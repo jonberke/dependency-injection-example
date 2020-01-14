@@ -1,0 +1,2 @@
+spec:
+  - 'handlers/**/tests/**/*.js'
