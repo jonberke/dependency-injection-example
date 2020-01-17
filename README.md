@@ -1,3 +1,9 @@
+# To Do
+Unit and integration tests (with dependency injection)
+Need to keep aws-sdk out of node_modules
+Share repo with Oscar
+CI/CD deployments
+
 # Run tests
 ## Automated tests
 Run all tests from the command line:
